@@ -11,3 +11,5 @@ truncate `#__menu`;
 truncate `#__menu_types`;
 truncate `#__modules`;
 truncate `#__modules_menu`;
+
+add some dummy data
