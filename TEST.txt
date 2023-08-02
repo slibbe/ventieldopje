@@ -1,0 +1,13 @@
+#
+# IMPORTANT - THIS FILE MUST BE SAVED WITH UTF-8 ENCODING ONLY. BEWARE IF EDITING!
+#
+SET FOREIGN_KEY_CHECKS=0;
+SET SQL_MODE="NO_AUTO_VALUE_ON_ZERO";
+SET time_zone = "+00:00";
+
+TRUNCATE `#__assets`;
+TRUNCATE `#__categories`;
+TRUNCATE `#__menu`;
+TRUNCATE `#__menu_types`;
+TRUNCATE `#__modules`;
+TRUNCATE `#__modules_menu`;
